@@ -1,0 +1,48 @@
+.Corradi{
+    background-color: rgb(192, 122, 16);
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 25px;
+
+    text-align: center;
+
+    padding: 8px;
+}
+
+.link-navigazione{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+.foglio{
+    border-style: solid;
+    border-color: black;
+    position: absolute;
+    top: 200px;
+    left: 300px;
+
+}
+
+.contenuto{
+    text-align: center;
+    background-color: rgb(232, 217, 162);
+}
+
+.nome{
+    color: rgb(192, 122, 16);
+}
+
+.nome2{
+    color: rgb(192, 122, 16);
+}
+
+.nome3{
+    color: rgb(192, 122, 16);
+}
+
+.link-navigazione2{
+    color: black;
+}

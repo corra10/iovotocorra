@@ -20,9 +20,7 @@
 .foglio{
     border-style: solid;
     border-color: black;
-    position: absolute;
-    top: 200px;
-    left: 300px;
+  
 
 }
 
@@ -46,3 +44,4 @@
 .link-navigazione2{
     color: black;
 }
+
